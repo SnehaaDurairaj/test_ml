@@ -18,3 +18,14 @@
 +defaults/win-64::libffi-3.4.4-hd77b12b_1
 +defaults/win-64::xz-5.4.6-h8cc25b3_1
 # update specs: ['python=3.8']
+==> 2024-06-06 12:45:13 <==
+# cmd: E:\conda\ANACONDA\Scripts\conda-script.py update python
+# conda version: 24.3.0
+-conda-forge/win-64::openssl-3.3.0-h2466b09_3
+-conda-forge/win-64::python-3.8.19-h4de0772_0_cpython
++conda-forge/noarch::tzdata-2024a-h0c530f3_0
++conda-forge/win-64::libexpat-2.6.2-h63175ca_0
++conda-forge/win-64::openssl-3.3.1-h2466b09_0
++conda-forge/win-64::python-3.12.3-h2628c8c_0_cpython
+# update specs: ['python']
+# neutered specs: ['python==3.12.3']
